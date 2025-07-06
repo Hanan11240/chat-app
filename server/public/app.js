@@ -1,6 +1,6 @@
 
 
-const socket = io("https://chat-app-psi-seven-96.vercel.app");
+const socket = io("https://chat-app-9lhn.onrender.com");
 
 
 
